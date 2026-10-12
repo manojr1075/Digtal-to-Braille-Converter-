@@ -1,4 +1,4 @@
-# ♿ Realtime Braille Conversion for Digital Content
+♿ Realtime Braille Conversion for Digital Content
 
 ## 📌 Overview
 This project converts digital text into Braille format in real-time using a mobile application, helping visually impaired users access digital content easily.
@@ -40,7 +40,6 @@ This project was developed as a team of 4 members.
 ## 🏆 Achievements
 - Selected among **Top 20** projects in Plutonium 2026
 - Awarded participation certificate
-=======
 Real-Time Braille Converter for Digital Content:
 A real-time system that converts digital/text content into tactile Braille output using OCR, Python, Arduino, and a solenoid-based Braille display.
 
@@ -82,4 +81,5 @@ Image Capture → OCR → Text Extraction → Braille Conversion → Arduino →
 - Faster text-to-Braille conversion
 - Smaller and more portable hardware
 - Improved Braille display mechanism.
->>>>>>> ocr/main
+# Digtal-to-Braille-Converter-
+Embedded project 
